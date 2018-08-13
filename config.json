@@ -1,0 +1,8 @@
+{
+  "iftttKey": "xxxxx-xxxxx-xxxxxx",
+  "doorAttribute": "digital_in_4",
+  "batteryLevelAttribute": "analog_in_3",
+  "enventName": "garage_door_open",
+  "closedText": "cerrada",
+  "openedText": "abierta"
+}

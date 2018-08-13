@@ -12,6 +12,15 @@ Please replace the value of `iftttKey` in `config.json` with the key which you'l
 
 ![Webhooks setting API key](Webhooks_setting-Place_API_Key.png "Webhooks setting -- Locate API-Key")
 
+## RUN
+
+In order to run the project you just need node.js and yarn. In the command line:
+
+```bash
+yarn
+yarn start
+```
+
 ## Want to help?
 
 Feel free to fork the project and create a Pull Request with you changes.

@@ -23,7 +23,8 @@ yarn start
 
 ## Want to help?
 
-Feel free to fork the project and create a Pull Request with you changes.
+Feel free to clone the project and create a new branch where you will add your changes.
+Once finished you'll need to create a Pull Request with you changes in order to merge it into master.
 
 ### TODOS
 
